@@ -17,7 +17,7 @@
  ![Screenshot3](Screenshots/Screen3.jpg)
  5. Найти пункт "Целевой размер BD", открыть его.
  ![Screenshot4](Screenshots/Screen4.jpg)
- 6. В поле под надписью "Target size for Blu-ray/AVCHD output" для карты памяти 32 ГБ ввести 31000, 64 ГБ - 63000.
+ 6. В поле под надписью "Target size for Blu-ray/AVCHD output" ввести значение "Емкость карты памяти в проводнике - 1 ГБ". Например, если в проводнике объем 29 ГБ, то ввести нужно 28000 (59 ГБ - вводим 58000).
  ![Screenshot5](Screenshots/Screen5.jpg)
  7. Найти пункт "Шаблоны меню", открыть его.
  ![Screenshot6](Screenshots/Screen6.jpg)
@@ -44,7 +44,7 @@
  ![Screenshot14](Screenshots/Screen14.jpg)
  5. Нажать кнопку "Старт". Так как скорее всего перекодироваться будут все файлы, то процесс занимает длительное время.
  6. После завершения откроется проводник с папкой AVCHD.
- ![Screenshot15](Screenshots/Screen14.jpg)
+ ![Screenshot15](Screenshots/Screen15.jpg)
  Эта папка понадобится на следующем этапе.\
  Обычно папка располагается по пути\
  `C:\Users\<Имя пользователя>\Documents\ConvertXtoVideo Ultimate\<Текст из пункта 1>\AVCHD 720p (for USB key)`.
